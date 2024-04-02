@@ -15,3 +15,4 @@ Roboflow Datasets: Trained on meticulously curated datasets from Roboflow, encom
 Multi-Object Detection: Capable of simultaneous detection of multiple objects within an image or video frame, crucial for real-time applications.
 
 Image and Video Support: Equipped to handle both static images and video streams, suitable for various applications like traffic monitoring and autonomous driving systems.
+DATASETA: Roboflow Universe
